@@ -15,3 +15,7 @@ https://github.com/soumendra/awesome-deeplearning
 
 This one looks pretty neat!
 https://github.com/EthicalML/awesome-production-machine-learning
+
+https://github.com/xiaoran-2/awesome-deeplearning-resources
+
+
